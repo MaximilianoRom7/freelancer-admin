@@ -15,7 +15,7 @@ Pygments==2.2.0
 pyparsing==2.2.1
 pytz==2018.5
 requests==2.19.1
-setuptools==39.0.1
+setuptools==65.5.1
 six==1.11.0
 snowballstemmer==1.2.1
 Sphinx==1.8.0
